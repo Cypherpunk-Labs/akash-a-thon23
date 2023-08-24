@@ -4,7 +4,6 @@
 
 ### Tasks
 
-- Wireguard will not run, needs to insert kernel module.
-- [x] Tailscale needs testing if it will run in akash (no marketplace sdls). YES
-- https://tailscale.com/kb/1108/cloudrun/
-- [x] magic dns works in pod once nameserver 100.100.100.100 is added to /etc/resolv.conf (known full/short host name can be used by services to replicate/cluster).
+- [x] Test Wireguard > FAILED > will not run, needs to insert kernel module.
+- [x] Test Tailscale > SUCCESS > needs testing if it will run in akash (no marketplace sdls). REF:https://tailscale.com/kb/1108/cloudrun/
+  - [x] magic dns works in pod once nameserver 100.100.100.100 is added to /etc/resolv.conf (known full/short host name can be used by services to replicate/cluster).
