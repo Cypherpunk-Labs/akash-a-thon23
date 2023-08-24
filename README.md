@@ -22,7 +22,7 @@ Areas of interest to build upon;
       - https://blog.niflheim.cc/posts/kata_containers_raspberry/
       - Gist: k3s handles containerd so need to patch config to make work.
     - [ ] POC
-      - [ ] install operator
+      - [x] install operator https://github.com/kata-containers/kata-containers/blob/3.1.3/tools/packaging/kata-deploy/README.md
       - [ ] mutate deployment
       - [ ] stretch goal extend SDL
     - All above need operators installed into k8s (Can only obfuscate inside process)
