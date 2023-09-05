@@ -2,6 +2,10 @@
   
 ## As a web admin I want to add resiliency to my site, so I need to replicate my backend services without over exposing my service to the public internet.
 
+## Outcome
+
+- Write a guide on how to integrate east west networking for cross provider high availability leveraging a two tiered application with backend replication.  
+
 ### Tasks
 
 - [x] Test Wireguard > FAILED > will not run, needs to insert kernel module.
