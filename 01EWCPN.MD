@@ -17,3 +17,4 @@
   - [x] magic dns works in pod once nameserver 100.100.100.100 is added to /etc/resolv.conf (known full/short host name can be used by services to replicate/cluster).
   - [ ] create bundle to demo, leverage confidential container to protect the key.
 - [ ] Research if we think an encryption key escrow is worth the effort thus add as provider feature we can sidecar in, or leave bundling binaries etc to user task.
+- [ ] Research consul
