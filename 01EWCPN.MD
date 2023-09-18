@@ -18,3 +18,4 @@
   - [ ] create bundle to demo, leverage confidential container to protect the key.
 - [ ] Research if we think an encryption key escrow is worth the effort thus add as provider feature we can sidecar in, or leave bundling binaries etc to user task.
 - [ ] Research consul
+- [ ] [Incorporate cell based architecture](https://github.com/wso2/reference-architecture/blob/master/reference-architecture-cell-based.md)
