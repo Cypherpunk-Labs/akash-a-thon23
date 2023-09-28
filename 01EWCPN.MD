@@ -1,8 +1,7 @@
 # 1. East West cross provider networking.
 
-[Demo Video](https://ody.sh/jYN7U46grF)
-
-[Source Code for Demo CockRoachDB APP](https://github.com/Cypherpunk-Labs/akash-demo-app-cockroachdb)
+- [Demo Video](https://ody.sh/jYN7U46grF)
+- [Source Code for Demo CockRoachDB APP](https://github.com/Cypherpunk-Labs/akash-demo-app-cockroachdb)
 
 # User stories
 
