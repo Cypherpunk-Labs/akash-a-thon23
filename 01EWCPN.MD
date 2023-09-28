@@ -1,5 +1,9 @@
 # 1. East West cross provider networking.
 
+## Background
+
+Currently there are limited networking options on the Akash network, we cannot create networks accross providers, so this limits how we can architecture in highly available services. Effectively you need to consider your services akin to serverless, in that you are limited to your pod, thus usermode means you cannot do typical networking. So our goal was to find a way to create our overlay network within these constraints. We are pleased to present an active active database service running accross two providers.
+
 - [Demo Video](https://ody.sh/jYN7U46grF)
 - [Source Code for Demo CockRoachDB APP](https://github.com/Cypherpunk-Labs/akash-demo-app-cockroachdb)
 
