@@ -8,3 +8,6 @@ Areas of interest to build upon;
 4. [Cluster Autoscaler](03CA.MD).
 
 - [Dora Buidl Entry](https://dorahacks.io/buidl/6996)
+
+20th Oct 2023 
+No prizes for Security and Privacy track awarded, limited prizes given on other tracks. 
