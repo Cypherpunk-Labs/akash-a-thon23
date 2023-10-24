@@ -2,6 +2,8 @@
 
 ![image](https://github.com/Cypherpunk-Labs/akash-a-thon23/assets/13536174/b50b9c69-48d6-49f6-b496-68f077388a00)
 
+- [Tracks](tracks.md)
+  
 ## Overview
 Are you a visionary developer seeking to shape the future of cloud computing? Look no further, as the Akash Network proudly presents its groundbreaking hackathon - Akash-a-thon!
 
