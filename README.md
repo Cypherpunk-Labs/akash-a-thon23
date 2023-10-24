@@ -16,3 +16,5 @@ No prizes for Security and Privacy track awarded, limited prizes given on other 
 ![image](https://github.com/Cypherpunk-Labs/akash-a-thon23/assets/13536174/778679ea-c614-4983-9b76-590eb5f5073a)
 - It's officially a new risk that entries need to now consider in future events. How can the organisers hide key information to render your entry null and void!
 - As a Programmer you maybe inclined to do all your work in the source code repo and leave a brief description and link to the repo. To mitigate this risk ensure the repo link is duplicated in the description.
+- Do not rely on this field 'GitHub repo URL' being displayed in the layout.
+![image](https://github.com/Cypherpunk-Labs/akash-a-thon23/assets/13536174/3d04476b-9b3f-4d23-a812-6aaa1cbceb92)
