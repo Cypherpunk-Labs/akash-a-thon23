@@ -11,8 +11,8 @@ Areas of interest to build upon;
 
 20th Oct 2023 
 No prizes for Security and Privacy track awarded, limited prizes given on other tracks. 
-
-![image](https://github.com/Cypherpunk-Labs/akash-a-thon23/assets/13536174/12806472-a0e9-4361-8d5a-1a1afb26f68a)
-
+[Winners](winners.md)
 
 ![image](https://github.com/Cypherpunk-Labs/akash-a-thon23/assets/13536174/778679ea-c614-4983-9b76-590eb5f5073a)
+- It's officially a new risk that entries need to now consider in future events. How can the organisers hide key information to render your entry null and void!
+- As a Programmer you maybe inclined to do all your work in the source code repo and leave a brief description and link to the repo. To mitigate this risk ensure the repo link is duplicated in the description.
