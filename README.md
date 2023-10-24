@@ -24,3 +24,5 @@ No prizes for Security and Privacy track awarded, limited prizes given on other 
 ![image](https://github.com/Cypherpunk-Labs/akash-a-thon23/assets/13536174/3d04476b-9b3f-4d23-a812-6aaa1cbceb92)
 - This is an example of the older layout.
 ![image](https://github.com/Cypherpunk-Labs/akash-a-thon23/assets/13536174/703cd0f5-58d2-4e71-80a8-87ed6d6b2c67)
+- This is what that example changed to in the new layout.
+  ![image](https://github.com/Cypherpunk-Labs/akash-a-thon23/assets/13536174/3a362666-51ae-420f-81e9-b2295132cbb1)
