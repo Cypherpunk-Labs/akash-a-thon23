@@ -9,9 +9,13 @@ Areas of interest to build upon;
 
 - [Dora Buidl Entry](https://dorahacks.io/buidl/6996)
 
+## outcome 
+
 20th Oct 2023 
 No prizes for Security and Privacy track awarded, limited prizes given on other tracks. 
-[Winners](winners.md)
+- [Winners](winners.md)
+
+### Reason entry was not judged. 
 
 ![image](https://github.com/Cypherpunk-Labs/akash-a-thon23/assets/13536174/778679ea-c614-4983-9b76-590eb5f5073a)
 - It's officially a new risk that entries need to now consider in future events. How can the organisers hide key information to render your entry null and void!
